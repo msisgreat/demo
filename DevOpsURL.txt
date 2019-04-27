@@ -1,1 +1,3 @@
 https://portal.azure.com/#create/Microsoft.Template/uri/http%3A%2F%2Fbit.ly%2Fgab2019-tmpl
+
+https://azuredevopsdemogenerator.azurewebsites.net/?TemplateId=77368&Name=deploymentgroups
